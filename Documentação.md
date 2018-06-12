@@ -72,7 +72,7 @@ Por fim, nessa última etapa passamos a utilizar a ontologia criada para definir
 
 
 ## Núcleo do modelo (diagrama)
-![Núcleo do modelo](https://github.com/medialab-ufg/ontologia-gestao-cultural/blob/master/nu%CC%81cleo%20do%20modelo.png)
+![Núcleo do modelo](https://github.com/culturagovbr/ontologia-gestao-cultural/blob/master/nu%CC%81cleo%20do%20modelo.png?raw=true)
 
 
 
