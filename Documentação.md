@@ -86,6 +86,10 @@ Por fim, nessa última etapa passamos a utilizar a ontologia criada para definir
 
 ![Modelo Completo](https://github.com/culturagovbr/ontologia-gestao-cultural/blob/master/ontologia.png?raw=true)
 
+### Modelo em formato OWL
+
+[modelo](https://raw.githubusercontent.com/culturagovbr/ontologia-gestao-cultural/master/ontologia%20gesta%CC%83o%20cultural.owl) 
+
 ## Modelo Conceitual
 ### Escopo
 Trata-se de uma ontologia para gestão da cultura, com o objetivo de apoiar na resolução de outras questões que têm preocupado a área da cultura, como criação da conta satélite da cultura e qualificação da gestão cultural. O GT fez uma reflexão mais ampla em relação ao escopo, e chegou-se a um consenso de se tratar de uma ontologia para a política pública da cultura, entendendo que uma das missões do SNC, do SNIIC, e do próprio MinC, é orientar e qualificar a gestão cultural no Brasil.
